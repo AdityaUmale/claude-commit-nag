@@ -1,0 +1,6 @@
+{
+  "name": "commit-nag",
+  "version": "0.1.0",
+  "description": "A band above the prompt that shows your branch, uncommitted files and time since your last commit, and roasts you when they pile up.",
+  "author": { "name": "Aditya Umale" }
+}
